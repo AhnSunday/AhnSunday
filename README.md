@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![AhnSunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnSunday&show_icons=true&theme=onedark)
+img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
