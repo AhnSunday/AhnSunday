@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![AhnSunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnSunday)](https://github.com/AhnSunday/github-readme-stats)
+
+[![AhnSunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnSunday)](https://github.com/AhnSunday/github-readme-stats)-->
 
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
