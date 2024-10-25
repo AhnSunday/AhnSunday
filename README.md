@@ -21,26 +21,23 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-## My values
 문제를 해결하는 것을 좋아합니다.<br />
 항상 고마운 마음으로 긍적적인 사고를 합니다.<br />
 차분하고 냉정하게 상황을 판단합니다.<br />
 <br />
 <br />
 <br />
-## How i work
 
 <br />
 <br />
 <br />
-## Skills
-#### I use it often.
+ I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
-#### I've used it before.
+ I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
