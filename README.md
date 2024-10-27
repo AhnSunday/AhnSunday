@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 문제를 해결하는 것을 좋아합니다.<br />
-항상 고마운 마음으로 긍적적인 사고를 합니다.<br />
-차분하고 냉정하게 상황을 판단합니다.<br />
 <br />
 <br />
 <br />
