@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 [![AhnSunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnSunday)](https://github.com/AhnSunday/github-readme-stats)-->
 
 ## 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AhnSunday&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/AhnSunday?pet-id=694717112908438981"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AhnSunday&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/AhnSunday"
+  width="600"
+  height="300"
+/>
 </a>
-<br />
-<br />
 <br />
 <br />
 <br />
