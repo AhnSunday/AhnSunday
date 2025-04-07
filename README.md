@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img
   src="https://render.gitanimals.org/farms/AhnSunday"
   width="750"
-  height="300"
+  height="350"
 />
 </a>
 <br />
