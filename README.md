@@ -1,4 +1,3 @@
-### Welcome!
 
 <!--
 **AhnSunday/AhnSunday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +16,15 @@ Here are some ideas to get you started:
 ## 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=71BBB2&height=150&section=header&text=SUNDAY's%20GITHUB&fontColor=27445D)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AhnSunday&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/AhnSunday"
-  width="750"
-  height="350"
-/>
-</a>
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AhnSunday&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/AhnSunday"
+      width="750"
+      height="300"
+    />
+  </a>
+</p>
 <br />
 <br />
 <br />
